@@ -15,3 +15,4 @@ make sense
 mv -f $(pwd) /usr/local
 mv /usr/local/chkrootkit-* /usr/local/chkrootkit
 ln -s /usr/local/chkrootkit/chkrootkit /usr/local/bin/chkrootkit
+/usr/local/bin/chkrootkit | grep -v -E "not(hing)? (infected|found|tested)"
