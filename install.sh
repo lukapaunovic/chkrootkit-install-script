@@ -7,7 +7,7 @@ yum -y install glibc-static libstdc++-static
 
 # Install
 
-wget https://fossies.org/linux/misc/legacy/chkrootkit-0.53.tar.gz
+wget https://fossies.org/linux/misc/chkrootkit-0.55.tar.gz
 tar xvf chkrootkit*.tar.gz
 rm -rf chkrootkit*.tar.gz
 cd chkrootkit-*
