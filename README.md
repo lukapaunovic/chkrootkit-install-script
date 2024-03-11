@@ -1,5 +1,5 @@
 # chkrootkit-install-script
-Chrootkit CentOS Bash installation script-
+Chrootkit generic Bash installation script-
 For those who struggle.
 
 bash install.sh
